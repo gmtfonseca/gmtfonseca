@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, @gmtfonseca here
 
-<!--
-**gmtfonseca/gmtfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Software Engineer based in Brazil.
 
-Here are some ideas to get you started:
+> I'm a curious, methodical and passionate developer who is willing to tackle any problem, regardless of nature or environment, with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### About me
+
+- 🔭 I’m currently working as **Software Engineer @ Fonseca LTDA**
+- ⚙️ I use daily: `.vue`, `.js`, `.ts`, `.sql`, `.css`, `scss`
+- 💬 Ask me about: **Vue**, **Node.js**, **AWS**, **REST**
+- 🎓 I'm a AWS Certified Developer Associate
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 📫 Don't hesitate on contacting me: gmtfonseca@gmail.com
+- 🌐 For socials, CV and more info, be my guest at my humble [personal website](https://gmtfonseca.github.io/)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmtfonseca&layout=compact&theme=dark&hide_border=true&langs_count=8) -->
