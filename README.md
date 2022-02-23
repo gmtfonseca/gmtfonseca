@@ -7,7 +7,7 @@
 ##### About me
 
 - 🔭 I’m currently working as **Software Engineer @ Fonseca LTDA**
-- ⚙️ I use daily: `.vue`, `.js`, `.ts`, `.sql`, `.css`, `scss`
+- ⚙️ I use daily: `.vue`, `.js`, `.ts`, `.sql`
 - 💬 Ask me about: **Vue**, **Node.js**, **AWS**, **REST**
 - 🎓 I'm a AWS Certified Developer Associate
 - 👯 I’m looking to collaborate on open source/commercial projects
