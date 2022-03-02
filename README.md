@@ -14,6 +14,6 @@
 - 📫 Don't hesitate on contacting me: gmtfonseca@gmail.com
 - 🌐 For socials, CV and more info, be my guest at my humble [personal website](https://gmtfonseca.github.io/)
 
-##### Some cool stats 😃
+##### Some fancy stats 😃
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmtfonseca&hide=php,Jupyter%20Notebook,dart,html&layout=compact&theme=dark&hide_border=true&langs_count=8)
