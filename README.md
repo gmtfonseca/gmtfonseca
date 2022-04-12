@@ -2,7 +2,7 @@
 
 #### Software Engineer based in Brazil.
 
-> I'm a curious, methodical and passionate developer who is willing to tackle any problem, regardless of its nature or environment, with code.
+> I'm a curious, methodical and passionate developer who is willing to tackle any problem, regardless of its nature or environment, using code.
 
 ##### About me
 
