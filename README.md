@@ -6,7 +6,7 @@
 
 ##### About me
 
-- 🔭 I’m currently working as a **Software Engineer @ Fonseca LTDA**
+- 🔭 I’m currently working as a **Senior Software Engineer @fullstacklabs**
 - ⚙️ I use daily: `.vue`, `.js`, `.ts`, `.sql`
 - 💬 Ask me about: **Vue**, **Node.js**, **AWS**, **SQL**, **REST**
 - 🎓 I'm a AWS Certified Developer Associate
