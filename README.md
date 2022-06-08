@@ -10,7 +10,6 @@
 - ⚙️ I use daily: `.vue`, `.js`, `.ts`, `.sql`
 - 💬 Ask me about: **Vue**, **Node.js**, **AWS**, **SQL**, **REST**
 - 🎓 I'm a AWS Certified Developer Associate
-- 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 Don't hesitate on contacting me: gmtfonseca@gmail.com
 - 🌐 For socials, CV and more info, be my guest at my humble [personal website](https://gmtfonseca.github.io/)
 
